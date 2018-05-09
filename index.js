@@ -2,4 +2,5 @@
 
 const companyName = "Scuber";
 
-let mostProfitableNe
+let mostProfitableNeighborhood = "Chelsea";
+
